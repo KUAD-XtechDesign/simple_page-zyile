@@ -2,7 +2,7 @@ body{
   font-family: "Helvetica Neue",Arial,"Hiragino Kaku Gothic ProN","Hiragino Sans",Meiryo,sans-serif;
   margin: 0;
   padding: 20px;
-  background-color: #ddd;
+  background-color: #f05b72;
   line-height: 1.8;
 }
 
@@ -21,7 +21,7 @@ img{
 .wrapper{
   max-width: 600px;
   margin: 0 auto;
-  background-color: #fff;
+  background-color: #f8aba6;
   padding: 10px;
   border-radius: 5px;
   box-shadow: 0 0 10px 0px rgba(0,0,0,0.2);
