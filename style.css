@@ -58,13 +58,16 @@ ul.history_list li{
   border-bottom: 1px dotted #ccc;/* 下線の点線 */
   margin-bottom: 1em;
   padding-bottom: 0.2em;
+  color: #f15b6c;
 }
 
 ul.history_list li div.txt{
   flex: 1;
+  color: #f15b6c;
 }
 
 div.year{
   width: 5em;
+  color: #f15b6c;
 }
 
